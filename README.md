@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Serge Delia Portfolio
+
+This is my professional portfolio.  It uses AWS and React.js
